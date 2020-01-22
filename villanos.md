@@ -2,4 +2,3 @@
 
  * Carnage
  * Knull
- * Capitán America
